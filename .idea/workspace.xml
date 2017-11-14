@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/docs/sles-docs/sles-index.adoc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -145,12 +145,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510678599593</updated>
-      <workItem from="1510678600727" duration="1885000" />
+      <workItem from="1510678600727" duration="2498000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1885000" />
+    <option name="totallyTimeSpent" value="2498000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3912" y="1292" width="1717" height="953" extended-state="0" />
@@ -223,7 +223,7 @@
     <entry file="file://$PROJECT_DIR$/docs/sles-docs/sles-index.adoc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="49" lean-forward="false" selection-start-line="9" selection-start-column="49" selection-end-line="9" selection-end-column="49" />
+          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
           <folding />
         </state>
       </provider>
