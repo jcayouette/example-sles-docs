@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/docs/sles-docs/sles-index.adoc">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
-              <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -39,8 +39,8 @@
       <file leaf-file-name="sles-intro.adoc" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/sles-docs/sles-11/sles-intro.adoc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="24" column="351" lean-forward="true" selection-start-line="24" selection-start-column="351" selection-end-line="24" selection-end-column="351" />
+            <state relative-caret-position="432">
+              <caret line="24" column="351" lean-forward="false" selection-start-line="24" selection-start-column="351" selection-end-line="24" selection-end-column="351" />
               <folding />
             </state>
           </provider>
@@ -145,12 +145,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510678599593</updated>
-      <workItem from="1510678600727" duration="2498000" />
+      <workItem from="1510678600727" duration="3717000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2498000" />
+    <option name="totallyTimeSpent" value="3717000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3912" y="1292" width="1717" height="953" extended-state="0" />
@@ -158,7 +158,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14502038" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297362" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -214,8 +214,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/sles-docs/sles-11/sles-intro.adoc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="24" column="351" lean-forward="true" selection-start-line="24" selection-start-column="351" selection-end-line="24" selection-end-column="351" />
+        <state relative-caret-position="432">
+          <caret line="24" column="351" lean-forward="false" selection-start-line="24" selection-start-column="351" selection-end-line="24" selection-end-column="351" />
           <folding />
         </state>
       </provider>
@@ -223,7 +223,7 @@
     <entry file="file://$PROJECT_DIR$/docs/sles-docs/sles-index.adoc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
-          <caret line="9" column="39" lean-forward="false" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
