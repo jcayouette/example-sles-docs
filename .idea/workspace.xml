@@ -29,8 +29,8 @@
       <file leaf-file-name="sles-index.adoc" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/sles-docs/sles-index.adoc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state relative-caret-position="198">
+              <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -105,6 +105,13 @@
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="sles-docs" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="example-sles-docs" type="b2602c69:ProjectViewProjectNode" />
+              <item name="example-sles-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="sles-docs" type="462c0819:PsiDirectoryNode" />
+              <item name="sles-11" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -145,12 +152,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1510678599593</updated>
-      <workItem from="1510678600727" duration="3717000" />
+      <workItem from="1510678600727" duration="4058000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3717000" />
+    <option name="totallyTimeSpent" value="4058000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3912" y="1292" width="1717" height="953" extended-state="0" />
@@ -222,8 +229,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/sles-docs/sles-index.adoc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
